@@ -6,4 +6,4 @@ The main purpose of this project was to predict "cuts" where inventory does not 
 The following analysis was done in order to forecast client's demand.
 
 # Explatory Data Analysis
-![text](plots/plot1.JPG){:height="50%" width="50%"}
+![text](plots/plot1.JPG){:height="700px" width="400px"}
