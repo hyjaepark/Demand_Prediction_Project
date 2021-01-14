@@ -8,7 +8,7 @@ The main purpose of this project was to predict times when inventory does not me
 ## Graph shows cuts over time 
 <img src="plots/plot1.JPG" width="500" height="300">
 
-## Products that has the most cuts
+## Products that have the most cuts
 <img src="plots/plot2.JPG" width="500" height="300">
 
 ## Cuts by distribution center
