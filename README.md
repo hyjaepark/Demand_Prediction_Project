@@ -8,24 +8,32 @@ The main purpose of this project was to predict times when inventory does not me
 ## Graph shows cuts over time 
 <img src="plots/plot1.JPG" width="500" height="300">
 
-## Products that has the most cuts
+## Products that have the most cuts
 <img src="plots/plot2.JPG" width="500" height="300">
 
 ## Cuts by distribution center
 <img src="plots/plot3.JPG" width="500" height="300">
 
 ## Cut drops by increasing inventory by fixed amount
-<img src="plots/simple1.jpg" width="500" height="300">
+<img src="plots/simple.JPG" width="500" height="300">
 
-<img src="plots/simple2.jpg" width="500" height="300">
+<img src="plots/simple2.JPG" width="500" height="300">
 
-<img src="plots/simple3.jpg" width="500" height="300">
+<img src="plots/simple3.JPG" width="500" height="300">
 
-## Seasonality
+## Findining Seasonality using exponential smoothing model
+Products that have clear seasonality in demand spikes
 
-<img src="plots/plot4.png" width="500" height="300">
+<img src="plots/seasonality.JPG" width="500" height="300">
 
-<img src="plots/plot5.png" width="500" height="300">
+<img src="plots/seasonality2.JPG" width="500" height="300">
+
+Some products have random spikes
+
+<img src="plots/seasonality3.JPG" width="500" height="300">
+
+
+Statistically insignificant to make conclusion / prediction as data period was only 1 year.
 
 # Modeling
 ## Features created/used
