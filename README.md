@@ -15,22 +15,22 @@ The main purpose of this project was to predict times when inventory does not me
 <img src="plots/plot3.JPG" width="500" height="300">
 
 ## Cut drops by increasing inventory by fixed amount
-<img src="plots/simple.jpg" width="500" height="300">
+<img src="plots/simple.JPG" width="500" height="300">
 
-<img src="plots/simple2.jpg" width="500" height="300">
+<img src="plots/simple2.JPG" width="500" height="300">
 
-<img src="plots/simple3.jpg" width="500" height="300">
+<img src="plots/simple3.JPG" width="500" height="300">
 
 ## Findining Seasonality using exponential smoothing model
 Products that have clear seasonality in demand spikes
 
-<img src="plots/seasonality.jpg" width="500" height="300">
+<img src="plots/seasonality.JPG" width="500" height="300">
 
-<img src="plots/seasonality2.jpg" width="500" height="300">
+<img src="plots/seasonality2.JPG" width="500" height="300">
 
 Some products have random spikes
 
-<img src="plots/seasonality3.jpg" width="500" height="300">
+<img src="plots/seasonality3.JPG" width="500" height="300">
 
 
 Statistically insignificant to make conclusion / prediction as data period was only 1 year.
