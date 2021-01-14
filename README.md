@@ -1,4 +1,4 @@
-# Opex-project
+# Opex-competition
 Anomaly Order Detection and Response
 
 # Main Objective
@@ -23,9 +23,9 @@ The main purpose of this project was to predict times when inventory does not me
 
 ## Seasonality
 
-<img src="plots/plot4.JPG" width="500" height="300">
+<img src="plots/plot4.png" width="500" height="300">
 
-<img src="plots/plot5.JPG" width="500" height="300">
+<img src="plots/plot5.png" width="500" height="300">
 
 # Modeling
 ## Features created/used
@@ -38,7 +38,6 @@ The main purpose of this project was to predict times when inventory does not me
 * Difference in Forecast & Consumer Order Units
 
 ## Classification models & results
-| |Logistic Regression | Randomforest | XGboost | |
-|--- |------------- | ------------- | |
-| Benchmark  | 0.0862 | 0.0875| 0.0805 |0.0916| 0.0898 |0.0938|
-| Score  | 0.1062 | 0.0933 |0.1147 |0.1267 |0.1122 |0.106|
+| |Logistic Regression | Randomforest | XGboost | 
+|--- |------------- | ------------- | ------------- | 
+| F-1 Score  | 0.6456 | 0.7122|  0.75|
